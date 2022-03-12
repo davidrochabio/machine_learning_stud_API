@@ -1,6 +1,6 @@
 # machine_learning_students_API
 
-![alt text](https://github.com/davidrochabio/machine_learning_students_API/edit/main/image/ml_api.jpg?raw=true)
+![plot](https://github.com/davidrochabio/machine_learning_students_API/edit/main/image/ml_api.jpg?raw=true)
 
 Implements a Machine Learning API to predict students math grades
 
